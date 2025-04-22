@@ -1,18 +1,42 @@
-## Getting Started
+# Parcial de Java - Manejo de Matrices
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este repositorio contiene soluciones a dos ejercicios prácticos sobre matrices en Java:
 
-## Folder Structure
+1. **Suma de filas en una matriz bidimensional.**
+2. **Contar los números pares en una matriz tridimensional.**
 
-The workspace contains two folders by default, where:
+## 1. Suma de filas en una matriz bidimensional
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+En este ejercicio, se crea una matriz bidimensional y se calcula la suma de los elementos de cada fila.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## 2. Contar números pares en una matriz tridimensional
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Este ejercicio consiste en crear una matriz tridimensional de dimensiones 3x4 y contar cuántos números pares hay entre los números 1 y 12.
 
-## Dependency Management
+## Instrucciones para ejecutar el proyecto
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+1. Clona este repositorio:
+    ```bash
+    git clone https://github.com/tu_usuario/tu_repositorio.git
+    ```
+
+2. Navega a la carpeta del proyecto:
+    ```bash
+    cd tu_repositorio
+    ```
+
+3. Compila y ejecuta los programas en Java:
+    ```bash
+    javac MatrizBidimensional.java
+    java MatrizBidimensional
+    javac Cubo.java
+    java Cubo
+    ```
+
+## Contribuciones
+
+Si deseas contribuir al proyecto, realiza un **fork** y envía un **pull request**.
+
+## Licencia
+
+Este proyecto está bajo la Licencia Creative Commons.
